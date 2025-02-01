@@ -1,0 +1,5 @@
+#!/bin/bash
+
+FIRST_NAME=BHAKTI
+LAST_NAME=RAMANI
+echo Hello $FIRST_NAME $LAST_NAME
